@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alberto Garcia</h1>
 <h3 align="center">Passionate Front-End Web Developer</h3>
 
-- 🌱 I’m currently learning/practicing **React and React Native**
+- 🌱 I’m currently working on a website for a Cake business using **React**
 
 - 👨‍💻 All of my projects are available at [https://alberto-garcia1.github.io/Personal-Website/](https://alberto-garcia1.github.io/Personal-Website/)
 
